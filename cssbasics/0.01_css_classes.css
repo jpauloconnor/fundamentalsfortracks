@@ -1,0 +1,18 @@
+body {
+	background-color: lightblue;
+}
+
+.important {
+	color: red;
+}
+
+.awesomeJames {
+	background-color: lightgray;
+}
+
+.awesomeJames p {
+	color: orange;
+	background-color: purple;
+	font-family: sans-serif;
+	font-size: 50px;
+}
